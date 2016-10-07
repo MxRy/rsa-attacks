@@ -4,6 +4,9 @@ useful link : http://math.unice.fr/~walter/L1_Arith/cours2.pdf
 """
 import math
 
+""" 
+Understand the link with the Euclid's algo, and everything will be OK!
+"""
 def DevContinuedFraction(num, denum) :
 	partialQuotients = []
     	divisionRests = []
