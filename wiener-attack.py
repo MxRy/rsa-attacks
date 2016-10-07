@@ -59,7 +59,7 @@ def WienerAttack(e, N, C) :
     	C = SquareAndMultiply(testStr, e, N)
     	for c in DivergentsComputation(DevContinuedFraction(e, N)) :
     		if SquareAndMultiply(C, c[1], N) == testStr :
-	    		FullReverse(N, e, c)
+	    		#FullReverse(N, e, c) Overflow problem with roots computation, TODO
 	    		return c[1]
     	return -1
 
