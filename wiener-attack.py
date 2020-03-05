@@ -1,5 +1,5 @@
 """
-Rolalala - 2016 - Wiener's attack 
+MxRy - 2016 - Wiener's attack 
 useful link : http://math.unice.fr/~walter/L1_Arith/cours2.pdf
 """
 import math
