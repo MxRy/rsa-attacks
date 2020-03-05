@@ -1,5 +1,5 @@
 """
-Rolalala - 2016 - Hastad's attack 
+MxRy - 2016 - Hastad's attack 
 """
 import math
 
